@@ -1,0 +1,382 @@
+animal_id,name,age_days,outcome,animal_type
+A794011,Chunk,736,Rto-Adopt,Cat
+A674754,,6,Transfer,Cat
+A860161,*Lalo,76,Adoption,Cat
+A689724,*Donatello,78,Adoption,Cat
+A680969,*Zeus,63,Adoption,Cat
+A684617,,731,Transfer,Cat
+A742354,Artemis,2559,Return to Owner,Cat
+A681036,,2,Transfer,Cat
+A803149,*Birch,23,Transfer,Cat
+A698049,Luigi,284,Transfer,Cat
+A773792,,31,Euthanasia,Cat
+A848454,Olli,2819,Adoption,Cat
+A822928,*Primrose,4149,Adoption,Cat
+A833999,,15,Transfer,Cat
+A730621,*Liza,115,Adoption,Cat
+A878380,A878380,734,Euthanasia,Cat
+A758536,,189,Transfer,Cat
+A801106,,102,Adoption,Cat
+A699884,,730,Euthanasia,Cat
+A852822,*Dreamsicle,743,Adoption,Cat
+A707743,,92,Transfer,Cat
+A791163,,30,Died,Cat
+A792258,Vesper,944,Adoption,Cat
+A705205,*Dell,82,Adoption,Cat
+A702919,,47,Transfer,Cat
+A696409,*Hans,82,Adoption,Cat
+A688758,,10,Transfer,Cat
+A778589,,86,Adoption,Cat
+A643424,Patches,2151,Return to Owner,Cat
+A748126,,381,Transfer,Cat
+A657197,Gecko,150,Adoption,Cat
+A783412,*Yams,3699,Adoption,Cat
+A686459,*Lovey,68,Adoption,Cat
+A799580,*Roger Rabbit,101,Adoption,Cat
+A833513,*Lemmy,3665,Transfer,Cat
+A671125,,78,Adoption,Cat
+A697910,Boris,842,Return to Owner,Cat
+A687056,,154,Transfer,Cat
+A666111,*Jerry,92,Adoption,Cat
+A827385,Mittens,404,Adoption,Cat
+A718784,*Marigold,97,Adoption,Cat
+A824550,,30,Transfer,Cat
+A791899,,368,Transfer,Cat
+A725540,*Tiny,24,Transfer,Cat
+A782089,,730,Euthanasia,Cat
+A830483,,365,Euthanasia,Cat
+A739966,*Skippyjohn,93,Adoption,Cat
+A729355,*Bridget,134,Transfer,Cat
+A687681,,5,Transfer,Cat
+A801634,Simba,192,Adoption,Cat
+A771760,,368,Transfer,Cat
+A747746,*Hops,399,Adoption,Cat
+A842461,*Ruby,83,Adoption,Cat
+A697903,,106,Transfer,Cat
+A676139,*Iona,3255,Adoption,Cat
+A676256,Maxey,5479,Return to Owner,Cat
+A774385,,84,Adoption,Cat
+A771075,,69,Adoption,Cat
+A726827,Sweet Pea,409,Adoption,Cat
+A662741,*Todd,55,Transfer,Cat
+A796941,*Carrot,98,Adoption,Cat
+A731104,*Zakarin,153,Adoption,Cat
+A771103,,99,Adoption,Cat
+A777152,,4,Transfer,Cat
+A833864,,8,Euthanasia,Cat
+A706245,,15,Transfer,Cat
+A732051,*Cinnamon,45,Transfer,Cat
+A744629,Hazel,1837,Adoption,Cat
+A720562,*Joni,1471,Adoption,Cat
+A856357,*Manon,74,Adoption,Cat
+A761895,,76,Adoption,Cat
+A845878,*Bruce,106,Adoption,Cat
+A729037,Blanco,80,Adoption,Cat
+A797068,Chumley,737,Adoption,Cat
+A773488,*O'Malley,87,Adoption,Cat
+A697608,Effie,93,Adoption,Cat
+A753292,Chaco,5845,Adoption,Cat
+A753146,*Susan,64,Adoption,Cat
+A664661,Lily,67,Adoption,Cat
+A738706,,732,Transfer,Cat
+A790939,,1,Transfer,Cat
+A754460,,95,Transfer,Cat
+A752298,Maddie,2978,Adoption,Cat
+A736221,,731,Euthanasia,Cat
+A702402,*Tic,93,Adoption,Cat
+A729769,*Gracie,376,Adoption,Cat
+A855780,*Sugar Ray,1114,Adoption,Cat
+A711270,,413,Transfer,Cat
+A827274,*Fizzle,119,Transfer,Cat
+A826220,,24,Transfer,Cat
+A742748,Elsie,4165,Adoption,Cat
+A880165,,733,Transfer,Cat
+A793783,Spinner,84,Adoption,Cat
+A799586,,734,Transfer,Cat
+A779909,,735,Transfer,Cat
+A823496,*Rigatoni,78,Adoption,Cat
+A864870,*Monaka,157,Adoption,Cat
+A820871,,61,Transfer,Cat
+A736505,Tommy,62,Adoption,Cat
+A819006,Little Girl,876,Adoption,Cat
+A754796,*Guppy,92,Adoption,Cat
+A794662,Sam,2088,Adoption,Cat
+A688756,,81,Adoption,Cat
+A816306,*Jelly Bean,66,Adoption,Cat
+A787658,*Fergus,783,Transfer,Cat
+A684828,,138,Transfer,Cat
+A749133,*Cowboy,1214,Adoption,Cat
+A692765,,68,Euthanasia,Cat
+A774672,,81,Adoption,Cat
+A681907,Tortilla,68,Adoption,Cat
+A795465,,73,Adoption,Cat
+A808052,*Oreo,106,Adoption,Cat
+A839074,,126,Died,Cat
+A823494,*Macaroni,78,Adoption,Cat
+A760496,*Marco Polo,133,Adoption,Cat
+A736523,*Clementina,388,Adoption,Cat
+A811845,L.S,5490,Rto-Adopt,Cat
+A737112,,367,Transfer,Cat
+A834933,*Salsa,71,Euthanasia,Cat
+A749348,*Toby,69,Adoption,Cat
+A678083,*Aspen,100,Adoption,Cat
+A769669,,734,Transfer,Cat
+A846023,,18,Transfer,Cat
+A812889,Tutti,109,Adoption,Cat
+A794634,Diamond,92,Adoption,Cat
+A703672,*Chillon,378,Transfer,Cat
+A715807,*Franz,158,Adoption,Cat
+A793307,,91,Adoption,Cat
+A805212,Turtle,332,Adoption,Cat
+A855631,Queso,753,Adoption,Cat
+A686100,,65,Adoption,Cat
+A801848,*Kit,78,Adoption,Cat
+A832511,*Theodosia,772,Adoption,Cat
+A818385,,83,Return to Owner,Cat
+A732882,,731,Euthanasia,Cat
+A685507,,22,Transfer,Cat
+A857610,*Maple,68,Adoption,Cat
+A813099,,369,Transfer,Cat
+A692842,Caramel,222,Transfer,Cat
+A817291,*Sunny,111,Adoption,Cat
+A676453,,213,Transfer,Cat
+A778049,*Davey,192,Adoption,Cat
+A840449,,14,Transfer,Cat
+A700785,,22,Transfer,Cat
+A823793,,80,Transfer,Cat
+A645112,Sherlock,5046,Transfer,Cat
+A843687,A843687,99,Adoption,Cat
+A805358,Ashanti,79,Adoption,Cat
+A489503,Dezi,2686,Euthanasia,Cat
+A819251,,98,Adoption,Cat
+A732077,,17,Transfer,Cat
+A791765,,84,Adoption,Cat
+A794072,,1,Transfer,Cat
+A818535,,4384,Transfer,Cat
+A671944,,153,Euthanasia,Cat
+A824403,,368,Transfer,Cat
+A799938,,60,Transfer,Cat
+A677835,*Suzette,439,Adoption,Cat
+A732207,,93,Transfer,Cat
+A749460,*Sweetheart,610,Adoption,Cat
+A817618,Pepper,72,Adoption,Cat
+A748827,,7,Transfer,Cat
+A685214,Truffles,60,Adoption,Cat
+A678968,,9,Transfer,Cat
+A755439,*Jasper,56,Adoption,Cat
+A866622,Polar,172,Adoption,Cat
+A777109,Bacon,421,Adoption,Cat
+A800873,,70,Transfer,Cat
+A734403,Jorgie,71,Adoption,Cat
+A778716,Anastasia,130,Adoption,Cat
+A806621,*Boo,101,Transfer,Cat
+A775399,Bean Sprout,100,Adoption,Cat
+A796408,*Elmer,47,Died,Cat
+A778694,,7,Transfer,Cat
+A724744,,2194,Euthanasia,Cat
+A847842,A847842,65,Adoption,Cat
+A735996,,6,Transfer,Cat
+A738584,*Lydia,201,Adoption,Cat
+A731663,*Onyx,77,Adoption,Cat
+A701472,,19,Transfer,Cat
+A723585,*Pee Wee,224,Adoption,Cat
+A701643,*Chip,208,Transfer,Cat
+A713974,,15,Transfer,Cat
+A679572,*Beau,57,Adoption,Cat
+A729694,,97,Adoption,Cat
+A671534,Stella,429,Adoption,Cat
+A681352,*Charlotte,73,Adoption,Cat
+A669986,Kimmie,4803,Died,Cat
+A731189,,13,Transfer,Cat
+A710363,*Wilma,130,Adoption,Cat
+A712384,*Cassiopeia,55,Transfer,Cat
+A817585,,103,Adoption,Cat
+A800666,*Odin,50,Transfer,Cat
+A781349,,66,Adoption,Cat
+A666819,Stripe,106,Transfer,Cat
+A683440,,52,Transfer,Cat
+A801453,*Creampuff,29,Transfer,Cat
+A684115,*Snowcream,1119,Transfer,Cat
+A733559,*Guacamole,70,Adoption,Cat
+A710402,Nevaeh,1628,Transfer,Cat
+A701174,,2,Transfer,Cat
+A774277,*Minnie,330,Transfer,Cat
+A797709,Bandit,52,Adoption,Cat
+A830379,,733,Transfer,Cat
+A817442,,1100,Disposal,Cat
+A859858,,51,Transfer,Cat
+A859949,*Cuthbert,115,Transfer,Cat
+A753792,,2922,Euthanasia,Cat
+A873253,*Peach Cobbler,1039,Adoption,Cat
+A694255,*Collette,74,Return to Owner,Cat
+A825520,,61,Adoption,Cat
+A749224,,80,Adoption,Cat
+A725558,*Bailey,1358,Adoption,Cat
+A837869,Geralt,1468,Adoption,Cat
+A842551,Kit Kat,738,Transfer,Cat
+A799013,,1100,Transfer,Cat
+A729013,,78,Adoption,Cat
+A688941,,124,Transfer,Cat
+A748109,,376,Transfer,Cat
+A770986,,15,Transfer,Cat
+A749464,*Kathy,58,Adoption,Cat
+A675116,*Melinda,228,Transfer,Cat
+A681560,Tutmosis,735,Return to Owner,Cat
+A778401,,365,Euthanasia,Cat
+A736721,*Hayden,4024,Transfer,Cat
+A582945,Nina,2662,Adoption,Cat
+A770568,,73,Euthanasia,Cat
+A711723,,14,Transfer,Cat
+A576705,Blue,2045,Adoption,Cat
+A763873,*Aparee,735,Transfer,Cat
+A798758,Popo,730,Return to Owner,Cat
+A776411,,7,Transfer,Cat
+A863983,285 Grams,22,Transfer,Cat
+A747649,,63,Adoption,Cat
+A857491,*Franz,85,Adoption,Cat
+A752425,*Clark,86,Adoption,Cat
+A802011,,25,Transfer,Cat
+A739496,,22,Transfer,Cat
+A804523,*Maggie 168G,31,Transfer,Cat
+A821808,,733,Transfer,Cat
+A669594,*Bunny,59,Adoption,Cat
+A818339,Scurvy,1166,Adoption,Cat
+A790471,,1095,Transfer,Cat
+A705991,,15,Transfer,Cat
+A734034,,126,Adoption,Cat
+A739413,,376,Transfer,Cat
+A838402,Ginger,111,Adoption,Cat
+A773427,Fluff,743,Transfer,Cat
+A789369,Precious,3689,Transfer,Cat
+A796246,,63,Transfer,Cat
+A824299,*Sakura,477,Adoption,Cat
+A809173,,369,Transfer,Cat
+A762192,,95,Transfer,Cat
+A667475,*Lovie,1843,Adoption,Cat
+A824740,,94,Adoption,Cat
+A755005,,3,Transfer,Cat
+A766628,Indison Jame,736,Adoption,Cat
+A783322,*Flynn,1102,Adoption,Cat
+A691708,,100,Transfer,Cat
+A876652,Gravy,56,Adoption,Cat
+A778113,,366,Transfer,Cat
+A763747,*Louise,554,Adoption,Cat
+A668178,*Owen,54,Adoption,Cat
+A741751,*Terrence,735,Transfer,Cat
+A787270,*Monty,238,Transfer,Cat
+A702403,Harvey,69,Adoption,Cat
+A732061,*Otto,1276,Adoption,Cat
+A840112,Cuddle Bug,3053,Adoption,Cat
+A865240,Fonzy,1113,Adoption,Cat
+A733502,*Sanya,221,Adoption,Cat
+A802238,,734,Transfer,Cat
+A781464,Panther,2567,Died,Cat
+A752358,Juno,67,Adoption,Cat
+A777939,,368,Transfer,Cat
+A775716,,36,Transfer,Cat
+A787654,Pepper,783,Transfer,Cat
+A715154,,15,Transfer,Cat
+A753537,Bronx,1473,Adoption,Cat
+A709084,Mr. Softie,2584,Transfer,Cat
+A839344,*Floretta,129,Adoption,Cat
+A764567,,732,Died,Cat
+A794895,,80,Adoption,Cat
+A865080,Mc Kitty,4748,Return to Owner,Cat
+A782492,Bear,1747,Transfer,Cat
+A855454,A855453,734,Euthanasia,Cat
+A791983,*Spice,99,Adoption,Cat
+A792559,*Giulia,80,Adoption,Cat
+A859196,A859196,42,Disposal,Cat
+A766118,,734,Transfer,Cat
+A875614,*Poppy,762,Adoption,Cat
+A761383,*Charlie,42,Transfer,Cat
+A803143,Aria,65,Adoption,Cat
+A772223,,71,Adoption,Cat
+A699227,*Caitlyn,155,Adoption,Cat
+A801121,Precious,549,Transfer,Cat
+A724463,,6,Transfer,Cat
+A765537,Godzilla,1622,Adoption,Cat
+A714862,*Peachy,118,Adoption,Cat
+A676765,*Newton,737,Transfer,Cat
+A811089,,736,Transfer,Cat
+A854119,A854119,70,Adoption,Cat
+A794195,Bentley,93,Adoption,Cat
+A687278,,33,Transfer,Cat
+A668550,*Pushkin,381,Transfer,Cat
+A824893,Blaze,244,Return to Owner,Cat
+A806446,,1067,Adoption,Cat
+A813613,*Kaapo,759,Adoption,Cat
+A757995,,15,Transfer,Cat
+A829248,,176,Adoption,Cat
+A675675,,145,Adoption,Cat
+A682683,*Nadia,60,Adoption,Cat
+A808560,*Granny Smith,49,Transfer,Cat
+A838089,,30,Transfer,Cat
+A847501,*Fir,80,Adoption,Cat
+A757442,*Emma,113,Adoption,Cat
+A840956,A840956,163,Adoption,Cat
+A679201,,22,Transfer,Cat
+A857363,*Thomas,148,Adoption,Cat
+A855711,Walter,78,Adoption,Cat
+A758739,,738,Transfer,Cat
+A729191,*Mr. Jones,64,Adoption,Cat
+A724653,,5,Transfer,Cat
+A738723,*Celene,59,Adoption,Cat
+A727613,,99,Adoption,Cat
+A794469,,50,Transfer,Cat
+A806106,Gato,1470,Return to Owner,Cat
+A882145,*Javier,115,Adoption,Cat
+A840160,*Lily,35,Euthanasia,Cat
+A798956,Lola,102,Adoption,Cat
+A783913,Angelina,552,Return to Owner,Cat
+A687756,Luna,75,Adoption,Cat
+A768906,*Peaches,1489,Return to Owner,Cat
+A776657,Margarita,121,Adoption,Cat
+A701885,Jax,382,Adoption,Cat
+A808988,,78,Adoption,Cat
+A803123,Gizmo,81,Adoption,Cat
+A666077,Sabrina,174,Adoption,Cat
+A706459,Furiosa,123,Adoption,Cat
+A879902,*Fluff,63,Adoption,Cat
+A819044,*Oliver,121,Adoption,Cat
+A737585,Snickers,99,Adoption,Cat
+A835081,,27,Transfer,Cat
+A819299,*Turkey Lurkey,74,Adoption,Cat
+A723110,,187,Transfer,Cat
+A741991,Styx,80,Adoption,Cat
+A759181,,31,Transfer,Cat
+A857031,Kit-Kat,212,Return to Owner,Cat
+A681346,*Jon Snow,97,Adoption,Cat
+A700106,Mr.Gray,377,Transfer,Cat
+A729401,,86,Transfer,Cat
+A780869,,754,Transfer,Cat
+A806164,Maya,79,Adoption,Cat
+A823747,,735,Euthanasia,Cat
+A721240,*Burt,75,Adoption,Cat
+A808996,,734,Transfer,Cat
+A804098,*Rosita,180,Adoption,Cat
+A697847,Randalls Cub,378,Adoption,Cat
+A760800,,1099,Transfer,Cat
+A762041,Oj,2202,Return to Owner,Cat
+A665610,,22,Transfer,Cat
+A747337,,88,Adoption,Cat
+A827240,Ross 8,388,Return to Owner,Cat
+A665994,*Lihue,103,Adoption,Cat
+A762274,*Rose,2930,Transfer,Cat
+A773787,*Scotch,117,Adoption,Cat
+A739344,Starman,88,Adoption,Cat
+A855597,Darby,817,Adoption,Cat
+A704378,Picasso,1117,Transfer,Cat
+A738529,,10,Transfer,Cat
+A791858,,2193,Transfer,Cat
+A678773,,1,Transfer,Cat
+A832999,,20,Transfer,Cat
+A758217,,85,Adoption,Cat
+A814026,,734,Transfer,Cat
+A791254,Taco,54,Adoption,Cat
+A730605,*Kirk,126,Adoption,Cat
+A820080,*Theodore,2965,Adoption,Cat
+A802474,156 Grams,9,Transfer,Cat
+A783602,,16,Transfer,Cat
+A691208,,315,Adoption,Cat
+A718620,*Toby Sue,222,Adoption,Cat
